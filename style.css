@@ -25,7 +25,10 @@ body{
 #tabs li {
   float: left;
  }
-
+.content{
+ margin-left:12%;
+ border-radius: 10%;
+}
 #tabs li a {
   display: block;
   color: white;
